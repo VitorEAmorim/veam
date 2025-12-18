@@ -1,0 +1,26 @@
+{
+  "name": "octus",
+  "version": "1.0.0",
+  "description": "Projeto de estudo",
+  "homepage": "https://github.com/VitorEAmorim/octus#readme",
+  "bugs": {
+    "url": "https://github.com/VitorEAmorim/octus/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VitorEAmorim/octus.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "next": "^16.0.10",
+    "node": "^24.12.0",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  }
+}
